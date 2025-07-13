@@ -1,0 +1,11 @@
+extensions -   
+
+alt+shift+^ = copy 
+alt = maney cursor
+lorem
+window+shift+s = snip(screenshot)
+ctrl + z = undu text
+use format documant
+for orderd list type="I";
+alt + ^ = shift line to downe
+ctrl + enter = next line
