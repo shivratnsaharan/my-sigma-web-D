@@ -77,6 +77,8 @@ nav button {
 .separation {
   height: 11px;
   background-color: rgb(56, 56, 56);
+  position: relative;
+  z-index: 20;
 }
 
 .btn {
@@ -119,3 +121,29 @@ nav button {
   gap: 16px;
 }
 
+.first {
+  display: flex;
+  justify-content: center;
+  max-width: 70vw;
+  margin: auto;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+.sec-Img img {
+  width: 555px;
+  position: relative;
+  z-index: 10;
+}
+
+.sec-Img {
+  position: relative;
+}
+
+.sec-Img video {
+  position: absolute;
+  top: 87px;
+  right: 50px;
+  width: 430px;
+}
